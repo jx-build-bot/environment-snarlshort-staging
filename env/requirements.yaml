@@ -1,4 +1,7 @@
 dependencies:
+- name: activiti-cloud-full-example
+  repository: https://almerico.github.io/helmrepo
+  version: 0.0.2
 - name: demo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.8
